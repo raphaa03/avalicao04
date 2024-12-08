@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    border: 0;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+    background-image: url(img/Pizza.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.Login{
+    margin: 120px auto;
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    background-image: url(img/Pizza.jpg);
+}
+
+.Login-Topo img{
+    width: 70px;
+    margin-top: 25px;
+    border-radius: 50%;
+}
+
+.Login-Topo p{
+    font-size: 28px;
+    margin: 10px;
+}
+
+.Voltar{
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 20px;
+    padding: 10px 25px;
+    margin: 10px auto;
+    border: none;
+    border-radius: 10px;
+}
